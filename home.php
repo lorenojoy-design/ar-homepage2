@@ -1,6 +1,4 @@
-<?php
-$showForm = isset($_GET['success']) ? "none" : "none"; // default hidden
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -511,3 +509,4 @@ document.getElementById('feedbackForm').addEventListener('submit', function(e) {
 
 </body>
 </html>
+
